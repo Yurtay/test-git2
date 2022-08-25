@@ -18,3 +18,4 @@ isPalindrome2('programmer')
 
 
 console.log('making changes in the code')
+console.log('What a beatiful day!')
