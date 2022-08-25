@@ -15,3 +15,6 @@ function isPalindrome2(str) {
 
 isPalindrome2("racecar")
 isPalindrome2('programmer')
+
+
+console.log('making changes in the code')
